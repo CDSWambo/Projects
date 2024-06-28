@@ -7,7 +7,7 @@ logfile="$HOME/ip.scripts/logfile.txt"
 
 #namecheap update dns
 
-password="9e226e5d5eee470391b330d1c2af1eff"
+password=""
 hosts=("*" "@")
 domain="syszima.xyz"
 
