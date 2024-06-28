@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-token="6721578264:AAHPo8uPYenpVpjtbJq1b1r5P0ciDzP_SUA"
+token=""
 chat="722262978"
 ipfile="$HOME/ip.scripts/db_ip.txt"
 logfile="$HOME/ip.scripts/logfile.txt"
