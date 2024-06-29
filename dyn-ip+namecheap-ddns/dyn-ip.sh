@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 token=""
-chat="722262978"
+chat=""
 ipfile="$HOME/ip.scripts/db_ip.txt"
 logfile="$HOME/ip.scripts/logfile.txt"
 
