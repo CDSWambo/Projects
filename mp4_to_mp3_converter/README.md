@@ -1,0 +1,1 @@
+Simple first app to convert local mp4 video to mp3 using ffmpeg_kit_flutter_full_gpl kit.
